@@ -1,7 +1,7 @@
 # プルリクエストの練習
 ## 誰でもどうぞ！
 気軽なリポジトリなので苦戦しそうでも自由にやってみてね！何度やってもOK  
-ここではSourceTree(おすすめツール)方法を記述しています。
+ここではSourceTree(おすすめツール)での方法を記述しています。
 
 #### １、このリポジトリをフォークする
 このページ右上のボタンを押せばOK  
@@ -25,7 +25,7 @@ SourceTreeの画面
 ![branch1](https://user-images.githubusercontent.com/39142850/48303643-eca1bd80-e54f-11e8-9bf0-fdb07de00069.jpg)  
 そして『Your branches』欄の『New pull request』をクリック  
 次に、下記を確認して送信すれば完成です。  
-![pullewquest](https://user-images.githubusercontent.com/39142850/48303971-11e4fa80-e555-11e8-9caa-3e2fcb919436.jpg)
+![pullrequest](https://user-images.githubusercontent.com/39142850/48358658-93b45f80-e6de-11e8-86f7-74d12e3be655.jpg)
 （私にリクエストが届くので確認次第、マージ※取り込みします。）
 #### 6、プルリク後のリポジトリは自由
 ※リポジトリ削除方法  
