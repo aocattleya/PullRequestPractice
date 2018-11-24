@@ -10,7 +10,7 @@
 ![fork](https://user-images.githubusercontent.com/39142850/48302712-5e273f00-e543-11e8-9356-ae7ab47ffdc0.jpg)
 
 #### 2、複製されたリポジトリをクローンする
-自分のPCに複製されたリポジトリの内容を持って来ます。  
+自分のPCに複製されたリポジトリの内容を持って来ます。(下記画像はこのページの右上)  
 ![clone](https://user-images.githubusercontent.com/39142850/48303070-0095f100-e549-11e8-8d47-4be6ccbedf7b.jpg)
 
 SourceTreeの画面  
@@ -18,10 +18,10 @@ SourceTreeの画面
 #### 3、Pull Request用のBranchを作成する
 ![branch](https://user-images.githubusercontent.com/39142850/48303383-ebbb5c80-e54c-11e8-948e-7874145b95db.jpg)
 #### 4、変更をコミット＆プッシュ
-なんでもいいのですが、思いつかない場合は『自分のGitHubID.txt』  
-というファイル名で適当なテキストファイルを追加して自分のブランチにコミット＆プッシュ
+なんでもOK　思いつかない場合は『自分のGitHubID.txt』というファイル名で  
+適当なテキストファイルを追加して作成したブランチにコミット→プッシュ
 #### 5、プルリクエストを作成
-自分の複製リポジトリのブランチが2になっているのでクリック  
+自分のGitHubページの複製リポジトリのブランチが2になっているのでクリック  
 ![branch1](https://user-images.githubusercontent.com/39142850/48303643-eca1bd80-e54f-11e8-9bf0-fdb07de00069.jpg)  
 そして『Your branches』欄の『New pull request』をクリック  
 次に、下記を確認して送信すれば完成です。  
